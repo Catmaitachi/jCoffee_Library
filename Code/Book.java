@@ -1,6 +1,6 @@
 package jCoffee_Library.Code;
 
-public class Book extends Midia implements iLend {
+public class Book extends Midia implements iLendable {
        
     private String autor;
     private boolean emprestado;

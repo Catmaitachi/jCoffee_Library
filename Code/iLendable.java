@@ -1,6 +1,6 @@
 package jCoffee_Library.Code;
 
-public interface iLend {
+public interface iLendable {
 
     void emprestar();
 
